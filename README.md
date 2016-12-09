@@ -12,3 +12,4 @@ nodejs 使用過的 plugin 紀錄
 
 ## eventproxy - 並行request
 * https://github.com/JacksonTian/eventproxy
+* http://www.cnblogs.com/zichi/p/4913133.html
