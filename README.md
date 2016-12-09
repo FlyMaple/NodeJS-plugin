@@ -9,5 +9,6 @@ nodejs 使用過的 plugin 紀錄
 
 ## request - 強化版
 * https://github.com/request/request
+
 ## eventproxy - 並行request
 * https://github.com/JacksonTian/eventproxy
